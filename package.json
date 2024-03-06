@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "author": "B2014788",
+  "author": "B2014778",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
